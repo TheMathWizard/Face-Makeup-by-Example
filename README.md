@@ -14,4 +14,4 @@ The code present in the following files -
 7. manual_select.py - manual adjustment of facial feature points
 8. overlay_blur.py - final step to reduce sharp edges of output
 
-The images can used for testing. The report contains some intermediary results.
+The images can be used for testing. The report contains some intermediary results.
